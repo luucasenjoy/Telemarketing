@@ -26,6 +26,6 @@ xlsxwriter
 
 ## Autores
 
-Lucasa Galvão
+Lucas Galvão
 [@luucasenjoy](https://www.linkedin.com/in/lucas-galva0/)
 
